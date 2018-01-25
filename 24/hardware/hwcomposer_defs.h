@@ -260,7 +260,7 @@ enum {
     HWC_NUM_DISPLAY_TYPES          = 3,
 
     /* QTI_BSP */
-    HWC_DISPLAY_TERTIARY    = 4,
+    //HWC_DISPLAY_TERTIARY    = 4,
 };
 
 enum {
@@ -269,7 +269,7 @@ enum {
     HWC_DISPLAY_VIRTUAL_BIT     = 1 << HWC_DISPLAY_VIRTUAL,
 
      /* QTI_BSP */
-    HWC_DISPLAY_TERTIARY_BIT    = 1 << HWC_DISPLAY_TERTIARY,
+    //HWC_DISPLAY_TERTIARY_BIT    = 1 << HWC_DISPLAY_TERTIARY,
 };
 
 /* Display power modes */
