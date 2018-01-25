@@ -289,7 +289,7 @@ typedef struct hwc_layer_1 {
 
             /* QTI_BSP */
             /* Color for Dim Layer */
-            hwc_color_t color;
+           // hwc_color_t color;
         };
     };
 
