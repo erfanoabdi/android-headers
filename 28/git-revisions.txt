@@ -1,0 +1,154 @@
+================================================
+bionic @ Wed Mar 18 21:11:26 HKT 2020
+================================================
++ cd /data/build/rom/los-16
++ repo status bionic
+
+... A new repo command ( 1.26) is available.
+... You should upgrade soon:
+
+    cp /home/jenkins/rom/los-16/.repo/repo/repo /usr/local/bin/repo
+
+nothing to commit (working directory clean)
++ cd /data/build/rom/los-16/bionic
++ git show-ref --head
+8604fcb3686a74d8f2a0632027525486febd45a4 HEAD
+8604fcb3686a74d8f2a0632027525486febd45a4 refs/remotes/github/lineage-16.0
+8604fcb3686a74d8f2a0632027525486febd45a4 refs/remotes/m/lineage-16.0
++ git remote -v
+github	git://github.com/LineageOS/android_bionic (fetch)
+github	git://github.com/LineageOS/android_bionic (push)
+
+
+================================================
+hardware/libhardware @ Wed Mar 18 21:11:26 HKT 2020
+================================================
++ cd /data/build/rom/los-16
++ repo status hardware/libhardware
+
+... A new repo command ( 1.26) is available.
+... You should upgrade soon:
+
+    cp /home/jenkins/rom/los-16/.repo/repo/repo /usr/local/bin/repo
+
+nothing to commit (working directory clean)
++ cd /data/build/rom/los-16/hardware/libhardware
++ git show-ref --head
+9c32a7ab2de7fe8a69ee39bdeb0aebe5b9edfe01 HEAD
+9c32a7ab2de7fe8a69ee39bdeb0aebe5b9edfe01 refs/remotes/github/lineage-16.0
+9c32a7ab2de7fe8a69ee39bdeb0aebe5b9edfe01 refs/remotes/m/lineage-16.0
++ git remote -v
+github	git://github.com/LineageOS/android_hardware_libhardware (fetch)
+github	git://github.com/LineageOS/android_hardware_libhardware (push)
+
+
+================================================
+hardware/libhardware_legacy @ Wed Mar 18 21:11:26 HKT 2020
+================================================
++ cd /data/build/rom/los-16
++ repo status hardware/libhardware_legacy
+
+... A new repo command ( 1.26) is available.
+... You should upgrade soon:
+
+    cp /home/jenkins/rom/los-16/.repo/repo/repo /usr/local/bin/repo
+
+nothing to commit (working directory clean)
++ cd /data/build/rom/los-16/hardware/libhardware_legacy
++ git show-ref --head
+cc3cfc5a361ca1988803fab410984a2e72e3b229 HEAD
+cc3cfc5a361ca1988803fab410984a2e72e3b229 refs/remotes/github/lineage-16.0
+cc3cfc5a361ca1988803fab410984a2e72e3b229 refs/remotes/m/lineage-16.0
++ git remote -v
+github	git://github.com/LineageOS/android_hardware_libhardware_legacy (fetch)
+github	git://github.com/LineageOS/android_hardware_libhardware_legacy (push)
+
+
+================================================
+system/core @ Wed Mar 18 21:11:26 HKT 2020
+================================================
++ cd /data/build/rom/los-16
++ repo status system/core
+
+... A new repo command ( 1.26) is available.
+... You should upgrade soon:
+
+    cp /home/jenkins/rom/los-16/.repo/repo/repo /usr/local/bin/repo
+
+nothing to commit (working directory clean)
++ cd /data/build/rom/los-16/system/core
++ git show-ref --head
+52686099dc45e426ce971f3b964d5268aea26d4c HEAD
+52686099dc45e426ce971f3b964d5268aea26d4c refs/remotes/github/lineage-16.0
+52686099dc45e426ce971f3b964d5268aea26d4c refs/remotes/m/lineage-16.0
++ git remote -v
+github	git://github.com/LineageOS/android_system_core (fetch)
+github	git://github.com/LineageOS/android_system_core (push)
+
+
+================================================
+system/media @ Wed Mar 18 21:11:26 HKT 2020
+================================================
++ cd /data/build/rom/los-16
++ repo status system/media
+
+... A new repo command ( 1.26) is available.
+... You should upgrade soon:
+
+    cp /home/jenkins/rom/los-16/.repo/repo/repo /usr/local/bin/repo
+
+nothing to commit (working directory clean)
++ cd /data/build/rom/los-16/system/media
++ git show-ref --head
+7c30d451a8c9a0395ed4580ff4047a6192716a9b HEAD
+f01b7b5ba9acbba7bff29c6b5e0ed12491df771c refs/remotes/m/lineage-16.0
+f01b7b5ba9acbba7bff29c6b5e0ed12491df771c refs/tags/android-9.0.0_r46
++ git remote -v
+aosp	https://android.googlesource.com/platform/system/media (fetch)
+aosp	https://android.googlesource.com/platform/system/media (push)
+
+
+================================================
+external/kernel-headers @ Wed Mar 18 21:11:26 HKT 2020
+================================================
++ cd /data/build/rom/los-16
++ repo status external/kernel-headers
+
+... A new repo command ( 1.26) is available.
+... You should upgrade soon:
+
+    cp /home/jenkins/rom/los-16/.repo/repo/repo /usr/local/bin/repo
+
+nothing to commit (working directory clean)
++ cd /data/build/rom/los-16/external/kernel-headers
++ git show-ref --head
+26b1e0e1d1945ba021adb15a136a1cd800cf629e HEAD
+6cbf24baaa914fdfd587432571f931c129ba0be0 refs/remotes/m/lineage-16.0
+6cbf24baaa914fdfd587432571f931c129ba0be0 refs/tags/android-9.0.0_r46
++ git remote -v
+aosp	https://android.googlesource.com/platform/external/kernel-headers (fetch)
+aosp	https://android.googlesource.com/platform/external/kernel-headers (push)
+
+
+================================================
+external/libnfc-nxp @ Wed Mar 18 21:11:26 HKT 2020
+================================================
++ cd /data/build/rom/los-16
++ repo status external/libnfc-nxp
+
+... A new repo command ( 1.26) is available.
+... You should upgrade soon:
+
+    cp /home/jenkins/rom/los-16/.repo/repo/repo /usr/local/bin/repo
+
+nothing to commit (working directory clean)
++ cd /data/build/rom/los-16/external/libnfc-nxp
++ git show-ref --head
+e4fb0694ac4eb888f098598bd895587b71747ce5 HEAD
+e4fb0694ac4eb888f098598bd895587b71747ce5 refs/remotes/github/lineage-16.0
+e4fb0694ac4eb888f098598bd895587b71747ce5 refs/remotes/m/lineage-16.0
++ git remote -v
+github	git://github.com/LineageOS/android_external_libnfc-nxp (fetch)
+github	git://github.com/LineageOS/android_external_libnfc-nxp (push)
+
+
